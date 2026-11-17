@@ -880,12 +880,12 @@
     "relatedSlugs": [],
     "facts": [
       {
-        "value": "70",
-        "label": "Egyptian FA's total for Salah"
+        "value": "68",
+        "label": "Egyptian FA match report and FIFA-revised count after the Malawi brace"
       },
       {
-        "value": "68",
-        "label": "FIFA's revised total after the Malawi brace"
+        "value": "70",
+        "label": "Number in Salah's social-media image, including two disputed 2013 goals"
       },
       {
         "value": "69",
@@ -903,7 +903,7 @@
     "body": [
       {
         "type": "paragraph",
-        "text": "Mohamed Salah's latest international milestone has become a statistical dispute rather than a straightforward record announcement. The Egypt forward scored twice in a 5-0 victory over Malawi on November 13, and the Egyptian Football Association credited him with 70 international goals, a total that would move him beyond Hossam Hassan. FIFA's revised count, however, places Salah on 68, leaving Hassan's recognised tally of 69 ahead."
+        "text": "Mohamed Salah's latest international milestone became a statistical dispute after Egypt's 5-0 win over Malawi. The Egypt captain scored twice, and a photo he posted showing the number 70 led many to conclude that he had moved past Hossam Hassan. FIFA's revised tally, however, put Salah on 68, one behind Hassan's 69. Ahram Online also reported that the Egyptian Football Association's match report listed Salah on 68 goals in 121 appearances."
       },
       {
         "type": "paragraph",
@@ -911,7 +911,7 @@
       },
       {
         "type": "paragraph",
-        "text": "The goals against Malawi were still significant. Salah scored late in the 5-0 win in Cairo, first with a header and then from the penalty spot. The result gave new coach Ali Maher a strong start and moved Egypt to the top of their qualifying group at the halfway point. The national association celebrated the achievement using its own statistical record, while FIFA's website was amended to show the lower total."
+        "text": "The two goals against Malawi were still significant. Salah scored late in the 5-0 win in Cairo, first with a header and then from the penalty spot. The Egyptian Football Association published a match report listing him on 68 goals in 121 appearances, while Salah's own social-media image showed the number 70. That higher figure includes the two goals from the 2013 Swaziland friendly that FIFA does not count as a full international."
       },
       {
         "type": "paragraph",
@@ -919,7 +919,7 @@
       },
       {
         "type": "paragraph",
-        "text": "It is fair to say the Egyptian FA recognises Salah as its all-time leading scorer on 70 goals. It is also accurate to say FIFA's revised figure is 68, one behind Hassan's 69. Rather than choosing one number and ignoring the other, the record should be reported with the counting difference explained. Salah's achievement is historic either way, but the official record depends on which institution's match list is being used."
+        "text": "The most precise way to report the milestone is to distinguish the different counts. The Egyptian Football Association's match report and FIFA's revised figure both list Salah on 68, while the number 70 appeared in his social-media post and in some reports that included the disputed 2013 goals. Hossam Hassan therefore remains one goal ahead on FIFA's recognised list. Salah's achievement is historic either way, but the record depends on which matches are counted."
       }
     ],
     "sources": [
@@ -934,14 +934,19 @@
         "note": "Reports the Egyptian FA's 70-goal count and match result."
       },
       {
-        "label": "Ahram Online: FIFA revises Salah tally to 68",
-        "url": "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=582445",
-        "note": "Explains the statistical discrepancy and the two 2013 goals."
-      },
-      {
         "label": "Ahram Online: Malawi 0-0 Egypt",
         "url": "https://english.ahram.org.eg/NewsContent/6/52/582658/Sports/National-Teams/LIVE-Malawi-v-Egypt--AFCON-qualifiers-%E2%80%93-Group-Stag.aspx",
         "note": "Confirms the 17 November return fixture ended 0-0."
+      },
+      {
+        "label": "Ahram Online: FIFA revises Salah tally to 68",
+        "url": "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=582445",
+        "note": "Explains the statistical discrepancy and reports that the Egyptian FA match report listed Salah on 68."
+      },
+      {
+        "label": "Daily News Egypt: Malawi 0-0 Egypt",
+        "url": "https://africa.dailynewsegypt.com/malawi-v-egypt-goalless-draw/",
+        "note": "Confirms the 17 November return fixture ended goalless."
       }
     ]
   },
